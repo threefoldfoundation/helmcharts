@@ -2,29 +2,17 @@ apiVersion: v1
 entries:
   tftservices:
     - apiVersion: v2
-      appVersion: 1.2.1-rc6
-      created: "2021-01-20T06:30:19.484551+01:00"
+      appVersion: 1.2.1-rc7
+      created: "2021-01-20T08:32:07.976032+01:00"
       description: A Helm chart for the tft services
-      digest: 2dfef76dea510d2fafbe66fe6ac9186e4ebd77101376d8422dac56bd09f40f62
+      digest: b3ed70d8d4db2f74abcc0e7612261f61730b2209cf221691e9591f6716b52cf5
       name: tftservices
       sources:
         - https://github.com/threefoldfoundation/tft-stellar
       type: application
       urls:
-        - https://github.com/threefoldfoundation/tft-stellar/releases/download/v1.2.1-rc6/tftservices-0.1.3.tgz
-      version: 0.1.3
-    - apiVersion: v2
-      appVersion: 1.2.1-rc5
-      created: "2021-01-19T12:23:10.803408+01:00"
-      description: A Helm chart for the tft services
-      digest: 71d45c963cb73865a660749ac9ea3e56ce5d88fce385f3bb59bf9949c64975af
-      name: tftservices
-      sources:
-        - https://github.com/threefoldfoundation/tft-stellar
-      type: application
-      urls:
-        - https://github.com/threefoldfoundation/tft-stellar/releases/download/v1.2.1-rc5/tftservices-0.1.2.tgz
-      version: 0.1.2
+        - https://github.com/threefoldfoundation/tft-stellar/releases/download/v1.2.1-rc7/tftservices-0.1.4.tgz
+      version: 0.1.4
     - apiVersion: v2
       appVersion: 1.2.1-rc3
       created: "2021-01-17T08:49:45.209047+01:00"
@@ -46,4 +34,4 @@ entries:
       urls:
         - https://github.com/threefoldfoundation/tft-stellar/releases/download/v1.2.1-rc3/tftstatistics-0.1.1.tgz
       version: 0.1.1
-generated: "2021-01-20T06:30:19.483672+01:00"
+generated: "2021-01-20T08:32:07.974741+01:00"
