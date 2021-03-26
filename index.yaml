@@ -113,14 +113,14 @@ entries:
   vestingdashboard:
     - apiVersion: v2
       appVersion: 1.3.0-beta4
-      created: "2021-03-26T11:17:43.932185+01:00"
+      created: "2021-03-26T11:42:00.729606+01:00"
       description: A Helm chart for the vesting dashboard
-      digest: 2fe71742284d2a264734a0b268b3d653508af566f983aad0a0c47d5e24419db1
+      digest: c73f0994b423ef05d33f200f96f470ad38c3fd5a473c062dd857afb8d02cb107
       name: vestingdashboard
       type: application
       urls:
-        - https://github.com/threefoldfoundation/tft-stellar/releases/download/v1.3.0-beta4/vestingdashboard-0.1.7.tgz
-      version: 0.1.7
+        - https://github.com/threefoldfoundation/tft-stellar/releases/download/v1.3.0-beta4/vestingdashboard-0.1.8.tgz
+      version: 0.1.8
     - apiVersion: v2
       appVersion: 1.3.0-beta3
       created: "2021-03-25T17:41:38.254131+01:00"
@@ -131,4 +131,5 @@ entries:
       urls:
         - https://github.com/threefoldfoundation/tft-stellar/releases/download/v1.3.0-beta3/vestingdashboard-0.1.5.tgz
       version: 0.1.5
-generated: "2021-03-26T11:17:43.929868+01:00"
+generated: "2021-03-26T11:42:00.727043+01:00"
+
