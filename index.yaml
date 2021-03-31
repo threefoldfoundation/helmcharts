@@ -2,6 +2,18 @@ apiVersion: v1
 entries:
   tftservices:
   - apiVersion: v2
+    appVersion: 1.3.0-rc3
+    created: "2021-03-31T19:30:40.358181+02:00"
+    description: A Helm chart for the tft services
+    digest: 3222faf15d88e9347b928097cbdb3f208ec61d7f789ffcbe39c0378e0057a67d
+    name: tftservices
+    sources:
+    - https://github.com/threefoldfoundation/tft-stellar
+    type: application
+    urls:
+    - https://github.com/threefoldfoundation/tft-stellar/releases/download/v1.3.0-rc3/tftservices-0.2.7.tgz
+    version: 0.2.7
+  - apiVersion: v2
     appVersion: 1.3.0-beta4
     created: "2021-03-26T10:31:59.559637+01:00"
     description: A Helm chart for the tft services
@@ -52,6 +64,16 @@ entries:
     version: 0.1.2
   vestingdashboard:
   - apiVersion: v2
+    appVersion: 1.3.0-rc3
+    created: "2021-03-31T19:30:40.358836+02:00"
+    description: A Helm chart for the vesting dashboard
+    digest: b3e76da9035a5a59f49cf7cc74d819be67f2cfefbad3dda977ac41525e49575a
+    name: vestingdashboard
+    type: application
+    urls:
+    - https://github.com/threefoldfoundation/tft-stellar/releases/download/v1.3.0-rc3/vestingdashboard-0.1.10.tgz
+    version: 0.1.10
+  - apiVersion: v2
     appVersion: 1.3.0-rc1
     created: "2021-03-26T19:18:03.772519+01:00"
     description: A Helm chart for the vesting dashboard
@@ -71,4 +93,5 @@ entries:
     urls:
     - https://github.com/threefoldfoundation/tft-stellar/releases/download/v1.3.0-beta4/vestingdashboard-0.1.8.tgz
     version: 0.1.8
-generated: "2021-03-26T19:18:03.770896+01:00"
+generated: "2021-03-31T19:30:40.356652+02:00"
+
