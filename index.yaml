@@ -1,5 +1,16 @@
 apiVersion: v1
 entries:
+  bsc-bridge-ui:
+  - apiVersion: v2
+    appVersion: 1.0.1
+    created: "2021-06-24T12:08:23.383871+02:00"
+    description: Frontend for the TFT Stellar BSC bridge
+    digest: feac5a281173117d66b7e85ee710b6901e1a3f4e28fd852374da109ddccc31b3
+    name: bsc-bridge-ui
+    type: application
+    urls:
+    - https://github.com/threefoldfoundation/tft/releases/download/v1.0.1/bsc-bridge-ui-1.0.1.tgz
+    version: 1.0.1
   tftservices:
   - apiVersion: v2
     appVersion: 1.4.1
@@ -155,4 +166,5 @@ entries:
     urls:
     - https://github.com/threefoldfoundation/tft-stellar/releases/download/v1.3.0-rc3/vestingdashboard-0.1.10.tgz
     version: 0.1.10
-generated: "2021-06-23T16:05:40.866969+02:00"
+generated: "2021-06-24T12:08:23.381574+02:00"
+
