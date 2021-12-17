@@ -13,6 +13,16 @@ entries:
     version: 1.0.1
   tftbscbridge:
   - apiVersion: v2
+    appVersion: 1.0.5
+    created: "2021-12-17T08:26:07.65737+01:00"
+    description: TFT stellar-bsc bridge
+    digest: d9c88568653013c4357fbd7bbd081ef5fdce5cf7b49fa9fc979b327b3afe2ed7
+    name: tftbscbridge
+    type: application
+    urls:
+    - https://github.com/threefoldfoundation/tft/releases/download/v1.0.5/tftbscbridge-0.1.5.tgz
+    version: 0.1.5
+  - apiVersion: v2
     appVersion: 1.0.2
     created: "2021-10-01T11:19:19.811452+02:00"
     description: Helm chart the tft stellar-bsc bridge
@@ -32,16 +42,6 @@ entries:
     urls:
     - https://github.com/threefoldfoundation/tft/releases/download/v1.0.2/tftbscbridge-0.1.2.tgz
     version: 0.1.2
-  - apiVersion: v2
-    appVersion: 1.0.2-b1
-    created: "2021-07-01T09:00:20.103441+02:00"
-    description: Helm chart the tft stellar-bsc bridge
-    digest: 8dc4e7274b7eb929d8edb1e321aa5d442b9f6f79753965ec669eb3917811b6d7
-    name: tftbscbridge
-    type: application
-    urls:
-    - https://github.com/threefoldfoundation/tft/releases/download/v1.0.2-b1/tftbscbridge-0.1.1.tgz
-    version: 0.1.1
   tftservices:
   - apiVersion: v2
     appVersion: 1.4.1
@@ -176,4 +176,4 @@ entries:
     urls:
     - https://github.com/threefoldfoundation/tft-stellar/releases/download/v1.2.1/tftstatistics-0.1.2.tgz
     version: 0.1.2
-generated: "2021-10-01T11:19:19.809634+02:00"
+generated: "2021-12-17T08:26:07.656439+01:00"
