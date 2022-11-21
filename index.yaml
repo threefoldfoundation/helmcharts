@@ -173,6 +173,18 @@ entries:
     version: 0.1.7
   tftstatistics:
   - apiVersion: v2
+    appVersion: 1.4.13-b1
+    created: "2022-11-21T12:34:15.72684+01:00"
+    description: TFT statistics api
+    digest: 9e038951508f778efe20e8fa1ad436adbcc9b67826489006b854cf0fd9d84a7d
+    name: tftstatistics
+    sources:
+    - https://github.com/threefoldfoundation/tft-stellar
+    type: application
+    urls:
+    - https://github.com/threefoldfoundation/tft-stellar/releases/download/v1.4.13-b1/tftstatistics-1.4.3.tgz
+    version: 1.4.3
+  - apiVersion: v2
     appVersion: 1.4.8
     created: "2021-06-23T16:05:40.869192+02:00"
     description: A Helm chart for deploying the tft statistics api
@@ -244,4 +256,4 @@ entries:
     urls:
     - https://github.com/threefoldfoundation/tft-stellar/releases/download/v1.2.1/tftstatistics-0.1.2.tgz
     version: 0.1.2
-generated: "2022-11-18T06:03:58.695938+01:00"
+generated: "2022-11-21T12:34:15.721356+01:00"
