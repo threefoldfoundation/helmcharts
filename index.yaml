@@ -64,6 +64,18 @@ entries:
     version: 0.1.2
   tftservices:
   - apiVersion: v2
+    appVersion: 1.4.13-b2
+    created: "2022-11-22T09:23:50.213993+01:00"
+    description: TFT supporting services
+    digest: b6961f026b4f74b737e2e10ea56e90683606b99a134f0dc42952101b086c886e
+    name: tftservices
+    sources:
+    - https://github.com/threefoldfoundation/tft-stellar
+    type: application
+    urls:
+    - https://github.com/threefoldfoundation/tft-stellar/releases/download/v1.4.13-b2/tftservices-0.4.8.tgz
+    version: 0.4.8
+  - apiVersion: v2
     appVersion: 1.4.13-a2
     created: "2022-11-18T06:03:58.696624+01:00"
     description: A Helm chart for the tft services
@@ -256,4 +268,4 @@ entries:
     urls:
     - https://github.com/threefoldfoundation/tft-stellar/releases/download/v1.2.1/tftstatistics-0.1.2.tgz
     version: 0.1.2
-generated: "2022-11-21T12:34:15.721356+01:00"
+generated: "2022-11-22T09:23:50.213146+01:00"
