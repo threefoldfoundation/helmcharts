@@ -64,6 +64,18 @@ entries:
     version: 0.1.2
   tftservices:
   - apiVersion: v2
+    appVersion: 1.4.13
+    created: "2022-12-02T08:40:05.795589+01:00"
+    description: TFT supporting services
+    digest: 655061bd47d7183ad3b4128078a71e82d4cf90921bbfc93014c8720ffe5241c6
+    name: tftservices
+    sources:
+    - https://github.com/threefoldfoundation/tft-stellar
+    type: application
+    urls:
+    - https://github.com/threefoldfoundation/tft-stellar/releases/download/v1.4.13/tftservices-0.4.9.tgz
+    version: 0.4.9
+  - apiVersion: v2
     appVersion: 1.4.13-b2
     created: "2022-11-22T09:23:50.213993+01:00"
     description: TFT supporting services
@@ -185,6 +197,18 @@ entries:
     version: 0.1.7
   tftstatistics:
   - apiVersion: v2
+    appVersion: 1.4.13
+    created: "2022-12-02T08:40:05.796151+01:00"
+    description: TFT statistics api
+    digest: 8f08aef878484e0e14a057f07a452b976c973e7d164235d809438bcb41aacf20
+    name: tftstatistics
+    sources:
+    - https://github.com/threefoldfoundation/tft-stellar
+    type: application
+    urls:
+    - https://github.com/threefoldfoundation/tft-stellar/releases/download/v1.4.13/tftstatistics-1.4.4.tgz
+    version: 1.4.4
+  - apiVersion: v2
     appVersion: 1.4.13-b1
     created: "2022-11-21T12:34:15.72684+01:00"
     description: TFT statistics api
@@ -268,4 +292,4 @@ entries:
     urls:
     - https://github.com/threefoldfoundation/tft-stellar/releases/download/v1.2.1/tftstatistics-0.1.2.tgz
     version: 0.1.2
-generated: "2022-11-22T09:23:50.213146+01:00"
+generated: "2022-12-02T08:40:05.794829+01:00"
